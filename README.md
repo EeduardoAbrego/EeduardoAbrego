@@ -4,7 +4,7 @@
 
 ##  About Me
 
-- :credit_card: My full name is **Shourya Sharma** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: My full name is **Shourya Sharma** <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="400" align="right"/>
 - :school: I'm currently the Final year student at **IIT Kharagpur**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Kharagpur, West Bengal, India**
