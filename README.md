@@ -3,19 +3,21 @@
 </div>
 
 ##  About Me
+<div align="center">
+  <p> "The only impossible journey is the one you never start" </p>
+</div>
 
-- :credit_card: My full name is **Shourya Sharma** <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="400" align="right"/>
-- :school: I'm currently the Final year student at **IIT Kharagpur**
-- :books: My major is **Software Engineering**
-- :earth_asia: I'm living now in **Kharagpur, West Bengal, India**
-- :sweat_smile: I'm a intermediate in coding :penguin:
-- :monocle_face: I'm interested in coding, sleeping, and watching film
-- :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
+- :school: SoyHenry Bootcamp Graduate <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="400" align="right"/>
+- :books: My major is **Front-End Developer**
+- :earth_asia: I'm living now in **Argentina,Buenos Aires, Mar del Plata**
+- :monocle_face: I'm interested in research and learn new technologies
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
+
+  
+
 
 <br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
 <p  align="center">
 
